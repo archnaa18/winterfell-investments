@@ -1,0 +1,9 @@
+[28-Nov-2023 03:30:25 America/Chicago] PHP Warning:  Undefined array key "fname" in /home2/yourchoicewebsit/public_html/winterfell-investments/backend/mail.php on line 4
+[28-Nov-2023 03:30:25 America/Chicago] PHP Warning:  Undefined array key "lname" in /home2/yourchoicewebsit/public_html/winterfell-investments/backend/mail.php on line 5
+[28-Nov-2023 03:30:25 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/yourchoicewebsit/public_html/winterfell-investments/backend/mail.php on line 7
+[28-Nov-2023 03:30:25 America/Chicago] PHP Warning:  Undefined array key "msg" in /home2/yourchoicewebsit/public_html/winterfell-investments/backend/mail.php on line 8
+[28-Nov-2023 03:30:25 America/Chicago] PHP Warning:  Undefined variable $name in /home2/yourchoicewebsit/public_html/winterfell-investments/backend/mail.php on line 16
+[28-Nov-2023 03:30:25 America/Chicago] PHP Warning:  Undefined variable $name in /home2/yourchoicewebsit/public_html/winterfell-investments/backend/mail.php on line 31
+[28-Nov-2023 03:30:25 America/Chicago] PHP Warning:  Undefined variable $name in /home2/yourchoicewebsit/public_html/winterfell-investments/backend/mail.php on line 31
+[28-Nov-2023 03:31:32 America/Chicago] PHP Warning:  Undefined variable $name in /home2/yourchoicewebsit/public_html/winterfell-investments/backend/mail.php on line 31
+[28-Nov-2023 03:31:32 America/Chicago] PHP Warning:  Undefined variable $name in /home2/yourchoicewebsit/public_html/winterfell-investments/backend/mail.php on line 31
